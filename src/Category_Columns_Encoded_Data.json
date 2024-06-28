@@ -1,0 +1,213 @@
+{
+    "code_gender": {
+        "M": 1,
+        "F": 0
+    },
+    "weekday_appr_process_start_app": {
+        "WEDNESDAY": 3,
+        "MONDAY": 1,
+        "THURSDAY": 4,
+        "SUNDAY": 0,
+        "SATURDAY": 6,
+        "FRIDAY": 5,
+        "TUESDAY": 2
+    },
+    "weekday_appr_process_start_prev": {
+        "WEDNESDAY": 3,
+        "MONDAY": 1,
+        "THURSDAY": 4,
+        "SUNDAY": 0,
+        "SATURDAY": 6,
+        "FRIDAY": 5,
+        "TUESDAY": 2
+    },
+    "flag_last_appl_per_contract": {
+        "Y": 1,
+        "N": 0
+    },
+    "name_contract_type_app": {
+        "Cash loans": 0.0,
+        "Revolving loans": 1.0
+    },
+    "name_type_suite_app": {
+        "Unaccompanied": 6.0,
+        "Family": 1.0,
+        "Spouse, partner": 5.0,
+        "Children": 0.0,
+        "Other_A": 3.0,
+        "Group of people": 2.0,
+        "Other_B": 4.0
+    },
+    "name_income_type": {
+        "Working": 6.0,
+        "State servant": 3.0,
+        "Commercial associate": 0.0,
+        "Pensioner": 2.0,
+        "Unemployed": 5.0,
+        "Student": 4.0,
+        "Maternity leave": 1.0
+    },
+    "name_education_type": {
+        "Secondary / secondary special": 4.0,
+        "Higher education": 1.0,
+        "Incomplete higher": 2.0,
+        "Lower secondary": 3.0,
+        "Academic degree": 0.0
+    },
+    "name_family_status": {
+        "Single / not married": 3.0,
+        "Married": 1.0,
+        "Civil marriage": 0.0,
+        "Widow": 4.0,
+        "Separated": 2.0
+    },
+    "name_housing_type": {
+        "House / apartment": 1.0,
+        "Rented apartment": 4.0,
+        "With parents": 5.0,
+        "Municipal apartment": 2.0,
+        "Office apartment": 3.0,
+        "Co-op apartment": 0.0
+    },
+    "occupation_type": {
+        "Laborers": 8.0,
+        "Core staff": 3.0,
+        "Accountants": 0.0,
+        "Managers": 10.0,
+        "Sales staff": 14.0,
+        "Private service staff": 12.0,
+        "Drivers": 4.0,
+        "Low-skill Laborers": 9.0,
+        "Cleaning staff": 1.0,
+        "High skill tech staff": 6.0,
+        "Cooking staff": 2.0,
+        "Medicine staff": 11.0,
+        "Security staff": 16.0,
+        "Waiters/barmen staff": 17.0,
+        "Realty agents": 13.0,
+        "Secretaries": 15.0,
+        "HR staff": 5.0,
+        "IT staff": 7.0
+    },
+    "organization_type": {
+        "Business Entity Type 3": 5.0,
+        "School": 39.0,
+        "Government": 11.0,
+        "Religion": 37.0,
+        "Other": 33.0,
+        "Industry: type 11": 16.0,
+        "Electricity": 9.0,
+        "Medicine": 30.0,
+        "Restaurant": 38.0,
+        "Business Entity Type 2": 4.0,
+        "Self-employed": 42.0,
+        "Transport: type 2": 53.0,
+        "Construction": 7.0,
+        "Housing": 13.0,
+        "Kindergarten": 28.0,
+        "Trade: type 7": 51.0,
+        "Business Entity Type 1": 3.0,
+        "Security Ministries": 41.0,
+        "Military": 31.0,
+        "Services": 43.0,
+        "Transport: type 4": 55.0,
+        "Industry: type 1": 14.0,
+        "Postal": 35.0,
+        "Emergency": 10.0,
+        "Industry: type 9": 26.0,
+        "Security": 40.0,
+        "Trade: type 2": 46.0,
+        "Bank": 2.0,
+        "University": 56.0,
+        "Police": 34.0,
+        "Transport: type 3": 54.0,
+        "Cleaning": 6.0,
+        "Industry: type 4": 21.0,
+        "Agriculture": 1.0,
+        "Hotel": 12.0,
+        "Telecom": 44.0,
+        "Industry: type 10": 15.0,
+        "Culture": 8.0,
+        "Industry: type 7": 24.0,
+        "Industry: type 3": 20.0,
+        "Trade: type 3": 47.0,
+        "Trade: type 6": 50.0,
+        "Industry: type 2": 19.0,
+        "Trade: type 1": 45.0,
+        "Transport: type 1": 52.0,
+        "Industry: type 5": 22.0,
+        "Insurance": 27.0,
+        "Industry: type 12": 17.0,
+        "Mobile": 32.0,
+        "Realtor": 36.0,
+        "Advertising": 0.0,
+        "Legal Services": 29.0,
+        "Trade: type 4": 48.0,
+        "Trade: type 5": 49.0,
+        "Industry: type 13": 18.0,
+        "Industry: type 8": 25.0,
+        "Industry: type 6": 23.0
+    },
+    "name_contract_type_prev": {
+        "Consumer loans": 1.0,
+        "Cash loans": 0.0,
+        "Revolving loans": 2.0
+    },
+    "name_contract_status": {
+        "Approved": 0.0,
+        "Canceled": 1.0,
+        "Refused": 2.0,
+        "Unused offer": 3.0
+    },
+    "name_payment_type": {
+        "Cash through the bank": 0.0,
+        "Non-cash from your account": 2.0,
+        "Cashless from the account of the employer": 1.0
+    },
+    "name_client_type": {
+        "New": 0.0,
+        "Repeater": 2.0,
+        "Refreshed": 1.0
+    },
+    "name_portfolio": {
+        "POS": 3.0,
+        "Cash": 2.0,
+        "Cards": 0.0,
+        "Cars": 1.0
+    },
+    "channel_type": {
+        "Stone": 7.0,
+        "Credit and cash offices": 5.0,
+        "Country-wide": 4.0,
+        "Regional / Local": 6.0,
+        "AP+ (Cash loan)": 0.0,
+        "Contact center": 3.0,
+        "Channel of corporate sales": 2.0,
+        "Car dealer": 1.0
+    },
+    "name_yield_group": {
+        "low_normal": 2.0,
+        "middle": 3.0,
+        "high": 0.0,
+        "low_action": 1.0
+    },
+    "product_combination": {
+        "POS other with interest": 15.0,
+        "Cash X-Sell: low": 7.0,
+        "POS industry with interest": 11.0,
+        "POS household with interest": 9.0,
+        "POS mobile without interest": 14.0,
+        "Card Street": 0.0,
+        "Card X-Sell": 1.0,
+        "Cash X-Sell: high": 6.0,
+        "Cash": 2.0,
+        "Cash Street: high": 3.0,
+        "Cash X-Sell: middle": 8.0,
+        "POS mobile with interest": 13.0,
+        "POS household without interest": 10.0,
+        "POS industry without interest": 12.0,
+        "Cash Street: low": 4.0,
+        "Cash Street: middle": 5.0,
+        "POS others without interest": 16.0
+    }
+}
